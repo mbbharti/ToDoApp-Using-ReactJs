@@ -1,5 +1,6 @@
 # ToDoApp using React
 ***In this ToDoApp there is two projects***
+---
 1.Using Material-UI 
 -ToDoAppMatUI is the main component
 2.Without using it
@@ -14,6 +15,6 @@
 ---
 1.
 <img src="screenShots/todoMATUI1.PNG" width="600" height="350" >
----
+
 2.
 <img src="screenShots/todoMATUI2.PNG" width="600" height="350" >
