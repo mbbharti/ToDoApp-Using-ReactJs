@@ -11,7 +11,9 @@
 >You can mark the completed task using the delete button
 
 ###screenshots
+---
 1.
-<img src="screenShots/todoMATUI1.PNG" width="600" height="250" >
+<img src="screenShots/todoMATUI1.PNG" width="600" height="350" >
+---
 2.
-<img src="screenShots/todoMATUI2.PNG" width="600" height="250" >
+<img src="screenShots/todoMATUI2.PNG" width="600" height="350" >
